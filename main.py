@@ -25,9 +25,4 @@ def help():
     print("Zadejte zkrácený název modulu pro jeho odjištění. názvy pro zadání: dráty, tlačítko, klávesnice, kuba, první(kdo je první, používejte pouze první), pamět(bez háčku nad t), morse, komplikované, posloupnost, bludiště, hesla, plyn(Upouštění plynu, použivejte plyn), kondenzátor, knoflíky")
 
 def kabels():
-    dratno = int(input("Zadej počet drátů (3 - 6): "))
-    if dratno == 3:
-        cerveny = str(input("Je některý drát červený?(a/n)"))
-        if cerveny == "n":
-            print("Přeříznout 1. drát")
-        elif :
+    pass
